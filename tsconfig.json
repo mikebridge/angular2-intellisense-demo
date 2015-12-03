@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+	"emitDecoratorMetadata": true,
+	"experimentalDecorators": true,
+	"moduleResolution": "node",
+        "module": "commonjs",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true
+    },
+    "exclude": [
+        "node_modules",
+        "public/jspm_packages",
+        "project"
+    ]
+}

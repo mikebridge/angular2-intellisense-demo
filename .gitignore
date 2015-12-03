@@ -1,0 +1,18 @@
+*~
+*.log
+tmp
+dump
+
+# Idea
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+*.iml
+*.ipr
+*.iws
+/out/
+
+
+
