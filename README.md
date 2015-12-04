@@ -1,1 +1,1 @@
-This is a demo of a [https://youtrack.jetbrains.com/issue/RSRP-451536](possible autocompleteion problem) in Intellij Idea, not an actual project.
+This is a demo of a [possible autocompleteion problem](https://youtrack.jetbrains.com/issue/RSRP-451536) in Intellij Idea, not an actual project.
